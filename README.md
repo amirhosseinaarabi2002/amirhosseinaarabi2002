@@ -43,11 +43,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirhossein-aarabi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amirhosseinaarabi2002&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhossein-aarabi&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhosseinaarabi2002&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -55,7 +55,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amirhossein-aarabi&theme=radical&no-frame=true&margin-w=10" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amirhosseinaarabi2002&theme=radical&no-frame=true&margin-w=10" alt="Trophies" />
 </p>
 
 ---

@@ -16,59 +16,38 @@
 
 # 💫 About Me
 
-💫 About Me
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZ0M3Y2bnM2c3NhNGd3a3QzcnE0b2s0bXJvM2V6OWU4ZzE0N2hnNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
 
-Hi there 👋
+### 👋 Hi, I'm Amirhossein
 
-I'm Amirhossein Aarabi, a passionate Python Backend Engineer and Flutter Developer who enjoys building scalable applications, designing APIs, and automating workflows.
+I'm a passionate **Python Backend Engineer** and **Flutter Developer** focused on building scalable applications, clean APIs, and automation solutions.
 
-🚀 What I Do
+### 🚀 What I Do
 
-🔹 Build robust backend systems with Python, Django, and Django REST Framework
+* 🐍 Build backend systems using **Python, Django & DRF**
+* 📱 Develop cross-platform mobile apps with **Flutter**
+* 🌐 Create modern web applications with **React & Next.js**
+* 🔌 Design secure and scalable **REST APIs**
+* 🤖 Build automations using **n8n**
+* 🐧 Work comfortably in Linux environments
 
-🔹 Develop cross-platform mobile applications using Flutter
+### 🎯 Current Focus
 
-🔹 Create modern web applications with React, Next.js, and TailwindCSS
+* Backend Architecture
+* System Design
+* AI & LLM Integrations
+* Workflow Automation
+* Cloud Deployment
 
-🔹 Design and integrate secure RESTful APIs
+### ⚡ Fun Facts
 
-🔹 Build automation workflows using n8n
+* 📚 Always learning new technologies
+* 🚀 Passionate about solving real-world problems
+* ⚙️ Love automation and productivity
+* 💡 Believe in continuous improvement
 
-🔹 Deploy and manage applications in Linux environments
+> "Building software that makes life easier, one project at a time."
 
-🧠 Current Focus
-Backend Architecture
-Django Ecosystem
-API Development
-Workflow Automation
-System Design
-AI & LLM Integrations
-💡 A Few Facts About Me
-
-🐍 Advanced Python Developer
-
-📱 Mobile App Builder with Flutter
-
-⚙️ Automation Enthusiast
-
-🐧 Linux Lover
-
-📚 Lifelong Learner
-
-🚀 Always exploring better ways to build software
-
-🎯 Goal
-
-To create reliable software products that solve real-world problems and deliver meaningful experiences for users.
-
-* 🐍 Advanced Python Developer
-* ⚡ Django & Django REST Framework Specialist
-* 📱 Flutter Mobile App Developer
-* 🌐 Full-Stack Web Developer
-* 🔌 API Design & Integration
-* 🤖 n8n Workflow Automation Builder
-* 🐧 Linux Enthusiast
-* 🚀 Passionate About Building Scalable Systems
 
 ---
 
@@ -180,21 +159,21 @@ To create reliable software products that solve real-world problems and deliver 
 # 🏆 Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=amirhosseinaarabi2002&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-readme-stats.vercel.app/api?username=amirhosseinaarabi2002&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 ---
 
 # 🐍 Contribution Snake
 
-## 🚀 Current Focus
+<h2 align="center">🚀 Currently Building</h2>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212744275-2b3407b8-2f89-41f4-8c1d-5f3f1fd76f7f.gif" width="700">
 </p>
 
 <p align="center">
-🐍 Python & Django • 📱 Flutter • 🤖 n8n Automation • ⚡ API Development • ☁️ System Design
+🐍 Python • ⚡ Django • 📱 Flutter • 🤖 n8n • 🌐 APIs • ☁️ Cloud
 </p>
 
 ---
@@ -214,7 +193,7 @@ To create reliable software products that solve real-world problems and deliver 
 # 🌍 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/amirhossein-aarabi-537394299/">
+<a href="https://www.linkedin.com/in/amirhossein-aarabi/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 

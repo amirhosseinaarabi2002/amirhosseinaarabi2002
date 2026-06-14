@@ -16,51 +16,50 @@
 
 # 💫 About Me
 
-```python
-class AmirhosseinAarabi:
+💫 About Me
 
-    role = "Backend Engineer"
+Hi there 👋
 
-    languages = [
-        "Python",
-        "JavaScript",
-        "Dart"
-    ]
+I'm Amirhossein Aarabi, a passionate Python Backend Engineer and Flutter Developer who enjoys building scalable applications, designing APIs, and automating workflows.
 
-    backend = [
-        "Django",
-        "Django REST Framework",
-        "REST APIs",
-        "Authentication",
-        "JWT"
-    ]
+🚀 What I Do
 
-    frontend = [
-        "React",
-        "Next.js",
-        "TailwindCSS",
-        "Bootstrap"
-    ]
+🔹 Build robust backend systems with Python, Django, and Django REST Framework
 
-    mobile = [
-        "Flutter"
-    ]
+🔹 Develop cross-platform mobile applications using Flutter
 
-    automation = [
-        "n8n",
-        "API Integrations",
-        "Workflow Automation"
-    ]
+🔹 Create modern web applications with React, Next.js, and TailwindCSS
 
-    database = [
-        "PostgreSQL",
-        "SQLite"
-    ]
+🔹 Design and integrate secure RESTful APIs
 
-    os = "Linux"
+🔹 Build automation workflows using n8n
 
-    motto = "Build. Learn. Improve. Repeat."
-```
+🔹 Deploy and manage applications in Linux environments
+
+🧠 Current Focus
+Backend Architecture
+Django Ecosystem
+API Development
+Workflow Automation
+System Design
+AI & LLM Integrations
+💡 A Few Facts About Me
+
+🐍 Advanced Python Developer
+
+📱 Mobile App Builder with Flutter
+
+⚙️ Automation Enthusiast
+
+🐧 Linux Lover
+
+📚 Lifelong Learner
+
+🚀 Always exploring better ways to build software
+
+🎯 Goal
+
+To create reliable software products that solve real-world problems and deliver meaningful experiences for users.
 
 * 🐍 Advanced Python Developer
 * ⚡ Django & Django REST Framework Specialist
@@ -188,36 +187,15 @@ class AmirhosseinAarabi:
 
 # 🐍 Contribution Snake
 
-> Enable GitHub Action for Snake Animation
+## 🚀 Current Focus
 
-```yaml
-name: Generate Snake
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b3407b8-2f89-41f4-8c1d-5f3f1fd76f7f.gif" width="700">
+</p>
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: amirhosseinaarabi2002
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-```
-
-After enabling:
-
-<img src="https://raw.githubusercontent.com/amirhosseinaarabi2002/amirhosseinaarabi2002/output/github-contribution-grid-snake-dark.svg"/>
+<p align="center">
+🐍 Python & Django • 📱 Flutter • 🤖 n8n Automation • ⚡ API Development • ☁️ System Design
+</p>
 
 ---
 
